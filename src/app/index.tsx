@@ -1,4 +1,5 @@
 import { render, h } from 'preact';
+import './styles/index.scss';
 
 const app = (
     <div>
