@@ -1,6 +1,7 @@
-# Figma Preact Starter
+![image](https://user-images.githubusercontent.com/3891632/142780096-33dafc63-00ec-4cf5-bafb-a81170a5aade.png)
 
-A template project for Preact-powered Figma plugins
+
+<p align=center><b>A template for <a href="https://preactjs.com/">Preact</a>-powered <a href="https://figma.com">Figma</a> plugins</b></p>
 
 ### Setup
 
