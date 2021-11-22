@@ -5,7 +5,7 @@
 
 ### Setup
 
-1. Create a new plugin via Figma. Choose the "Empty" plugin type.
+1. Create a new plugin via Figma. `Plugins > Development > New Plugin` Choose the "Empty" plugin type.
 
 2. Clone this repo into your plugin folder.
 
